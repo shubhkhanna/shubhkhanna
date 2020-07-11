@@ -1,7 +1,9 @@
+
+
 ## Hey, I'm Shubh! <br>
 
 **𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!**<br>
-**_Open Source Contributor at Student Code-in_**<br>
+🔭 **_Open Source Contributor at Student Code-in_**<br>
 :mortar_board: **_Sophomore at DIT University, Dehradun_**<br>
 :vulcan_salute: **𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕**<br>
 ⚡ **_Available for Freelance projects/internship opportunities._**<br>
