@@ -29,9 +29,8 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
 <p align="center">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=shubhkhanna.visitor-badge">
 </p>
+<p align="center">
+    <b> If you like this repo, give it a ⭐️</b>
 </p>
-
-- If you like this repo, give it a **Star**<br>
-⭐️ From [Shubh Khanna](https://github.com/shubhkhanna)
-
+</p>
 <img src="https://github.com/shubhkhanna/shubhkhanna/blob/master/assets/bottom.svg" alt="">
