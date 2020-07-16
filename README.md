@@ -24,9 +24,6 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
     </a>
 </p>
 <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=shubhkhanna.visitor-badge">
-</p>
-<p align="center">
     <b> If you like this repo, give it a ⭐️</b>
 </p>
 </p>
