@@ -31,6 +31,9 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
     </a>
 </p>
 <p align="center">
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubhkhanna.shubhkhanna)
+</p>
+<p align="center">
     <b> If you like this repo, give it a ⭐️</b>
 </p>
 </p>
