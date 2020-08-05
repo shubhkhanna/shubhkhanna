@@ -7,7 +7,7 @@
 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕**<br>
 ⚡ **_Available for Freelance projects/internship opportunities._**<br>
 ![Shubh's Github
-stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&hide=["stars"]&hide_border=true&icon_color=E80000)<br>
+stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&hide="stars"&hide_border=true&icon_color=E80000)<br>
 <a href="https://github.com/shubhkhanna"><img alt="GitHub"
         src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshubhkhanna&longCache=true" /></a>
 <a href="https://twitter.com/khannashubh04"><img alt="Twitter"
@@ -26,7 +26,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
     <a href="https://twitter.com/khannashubh04" alt="Twitter">
         <img src="https://github.com/shubhkhanna/shubhkhanna/blob/master/assets/twitter-fill.svg" alt="">
     </a>
-    <a href="https://www.linkedin.com/in/shubhkhanna/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/khannashubh/" alt="Linkedin">
         <img src="https://github.com/shubhkhanna/shubhkhanna/blob/master/assets/linkedin-fill.svg" alt="">
     </a>
 </p>
