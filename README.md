@@ -30,6 +30,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
         <img src="https://github.com/shubhkhanna/shubhkhanna/blob/master/assets/linkedin-fill.svg" alt="">
     </a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" /> </p>
 <p align="center">
     <b> If you like this repo, give it a ⭐️</b>
 </p>
