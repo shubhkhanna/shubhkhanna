@@ -1,16 +1,14 @@
-# Hey, I'm Shubh!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" /> 
+<h1 align="center"> Hi! I'm Shubh</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" /> 
 <br>
-
-**I'm a Full Stack Developer!**<br>
-🔭 **Open Source Contributor**<br>
-:mortar_board: **_Sophomore at DIT University, Dehradun_**<br>
-:vulcan_salute: **𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉
-𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕**<br>
-⚡ **_Available for Freelance projects/internship opportunities._**<br>
-   
-        
-        
+<p align="center">
+   <b>I'm a Full Stack Developer!</b> <br>
+   <b>Open Source Contributor</b><br>
+   <b>Sophomore at DIT University, Dehradun</b><br>
+   <b>𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉
+      𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕</b><br>
+   <b>Available for Freelance projects/internship opportunities.</b>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&icon_color=E80000" alt="stats" /> 
 </p>
