@@ -1,4 +1,6 @@
-# Hey, I'm Shubh! <br>
+# Hey, I'm Shubh!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" /> 
+<br>
 
 **I'm a Full Stack Developer!**<br>
 🔭 **Open Source Contributor**<br>
@@ -6,7 +8,7 @@
 :vulcan_salute: **𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉
 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕**<br>
 ⚡ **_Available for Freelance projects/internship opportunities._**<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />    
+   
         
         
 <p align="center">
