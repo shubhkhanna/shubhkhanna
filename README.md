@@ -1,4 +1,5 @@
 # Hi! I'm Shubh Khanna
+<img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
 
 **_Full Stack Web Developer._**<br>
 :mortar_board: **_Sophomore at DIT University, Dehradun_**<br>
