@@ -1,7 +1,7 @@
 # Hi! I'm Shubh Khanna
 <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
 
-**_Full Stack Web Developer._**<br>
+👨‍💻 **_Full Stack Web Developer._**<br>
 :mortar_board: **_Sophomore at DIT University, Dehradun_**<br>
 :vulcan_salute: **_I put mostly of my focus on web development with JavaScript!_**<br>
 ⚡ **_Available for Freelance projects/internship opportunities._**<br>
