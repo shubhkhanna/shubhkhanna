@@ -23,7 +23,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
     <a href="https://twitter.com/khannashubh04" alt="Twitter">
         <img src="https://github.com/shubhkhanna/shubhkhanna/blob/master/assets/twitter-fill.svg" alt="">
     </a>
-    <a href="https://www.linkedin.com/in/khannashubh/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/shubhkhanna/" alt="Linkedin">
         <img src="https://github.com/shubhkhanna/shubhkhanna/blob/master/assets/linkedin-fill.svg" alt="">
     </a>
 </p>
