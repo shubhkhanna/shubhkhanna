@@ -1,5 +1,5 @@
-# Hey! 
-## I'm Shubh Khanna
+<h1>Hey!<br>
+I'm Shubh Khanna</h1>
 
 - 👨‍💻 **_Full Stack Web Developer._**<br>
 - :mortar_board: **_Sophomore at DIT University, Dehradun._**<br>
