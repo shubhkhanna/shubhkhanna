@@ -1,4 +1,5 @@
-# Hi! I'm Shubh Khanna
+# Hey! 
+## I'm Shubh Khanna
 
 - 👨‍💻 **_Full Stack Web Developer._**<br>
 - :mortar_board: **_Sophomore at DIT University, Dehradun._**<br>
