@@ -1,10 +1,8 @@
 # Hi! I'm Shubh Khanna
-<img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
 
-👨‍💻 **_Full Stack Web Developer._**<br>
-:mortar_board: **_Sophomore at DIT University, Dehradun_**<br>
-:vulcan_salute: **_I put mostly of my focus on web development with JavaScript!_**<br>
-⚡ **_Available for Freelance projects/internship opportunities._**<br>
+- 👨‍💻 **_Full Stack Web Developer._**<br>
+- :mortar_board: **_Sophomore at DIT University, Dehradun._**<br>
+- ⚡ **_Available for Freelance projects/internship opportunities._**<br>
 
 ![Shubh's Github
 stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&icon_color=E80000)<br>
@@ -16,6 +14,7 @@ stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icon
         src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img
         src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+<img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
 <hr>
 <p align="center">
     <i>Let's connect!</i>
