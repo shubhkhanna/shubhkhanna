@@ -7,12 +7,14 @@ I'm Shubh Khanna</h1>
 - 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/shubhkhanna)
 - 📭 work.shubhkhanna@gmail.com
 
-🕵 Take a look at my repositories and let's get in touch!
 
 ![Shubh's Github
 stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&icon_color=E80000)<br>
 
 <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
+
+🕵 Take a look at my repositories and let's get in touch!
+
 <hr>
 <p align="left">
 <a href="https://twitter.com/khannashubh04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khannashubh04" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
