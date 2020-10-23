@@ -11,8 +11,8 @@ I'm Shubh Khanna</h1>
 stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&icon_color=E80000)<br>
 
 # Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
 
