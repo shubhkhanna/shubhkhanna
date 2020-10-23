@@ -7,9 +7,13 @@ I'm Shubh Khanna</h1>
 - 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/shubhkhanna)
 - 📭 work.shubhkhanna@gmail.com
 
-
 ![Shubh's Github
 stats](https://github-readme-stats.vercel.app/api?username=shubhkhanna&show_icons=true&icon_color=E80000)<br>
+
+# Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img src="https://komarev.com/ghpvc/?username=shubhkhanna" alt="shubhkhanna" />
 

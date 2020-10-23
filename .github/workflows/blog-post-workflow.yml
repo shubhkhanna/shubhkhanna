@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every 2 minutes
+    - cron: "*/2 * * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM POSTS"
+          commit_message: "Updated readme with the latest medium blog posts"
+          feed_list: "https://medium.com/feed/@shubhkhanna"
