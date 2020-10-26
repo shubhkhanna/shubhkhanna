@@ -1,9 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
     - cron: "0 * * * *"
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -12,6 +10,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: MEDIUM
-          commit_message: "Updated readme with the latest medium blog posts"
+          max_post_count: "4"
           feed_list: "https://medium.com/feed/@shubhkhanna"
