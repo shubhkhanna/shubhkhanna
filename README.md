@@ -5,11 +5,9 @@
 
 - 🎓 **Sophomore at DIT University, Dehradun.**
 
-- 🌱 I'm currently learning **DevOps**.
-
 - 👨‍💻 All of my projects are available at [https://github.com/shubhkhanna](https://github.com/shubhkhanna)
 
-- 💬 Ask me about **React, Node.js, MongoDb, Open Source, Django**
+- 💬 Ask me about **React, Node.js, MongoDb, React-Native, Open Source, Django**
 
 - ✈️ **Hire me for remote work & internships.**
 
