@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Khanna</h1>
-<h3 align="center">A Passionate & Self-Taught 👨‍💻MERN Stack Developer from India.</h3>
+<h3 align="center">A Passionate & Self-Taught 👨‍💻Full Stack Web Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkhanna" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhkhanna](https://github.com/shubhkhanna)
 
-- 💬 Ask me about **React, Node.js, MongoDb, React-Native, Open Source, Django**
+- 💬 Ask me about **React, Node.js, MongoDb, React-Native, Python**
 
 - ✈️ **Hire me for remote work & internships.**
 
-- 📫 How to reach me **work.shubhkhanna@gmail.com**
+- 📫 How to reach me **dit.shubhkhanna@gmail.com**
 
 
 <h3 align="center">🤝Connect with me</h3>
