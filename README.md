@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubh Khanna</h1>
-<h3 align="center">A Passionate & Self-Taught 👨‍💻Full Stack Web Developer from India.</h3>
+<h3 align="center">A Passionate & Self-Taught 👨‍💻Full Stack Web Developer & Native App Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkhanna" /> </p>
 
-- 🎓 **Sophomore at DIT University, Dehradun.**
+- 🎓 **Junior Year Student at DIT University, Dehradun.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhkhanna](https://github.com/shubhkhanna)
 
