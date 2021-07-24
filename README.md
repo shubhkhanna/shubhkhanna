@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubh</h1>
-<h3 align="center">
-⚡ I love to build Scalable Software solutions which can make one's life easy. I have expertise in Web Technologies, Native App Development. I am eager to find learning opportunities in the IT industry.</h3>
+<p align="center">
+⚡ I love to build Scalable Software solutions which can make one's life easy. I have expertise in Web Technologies, Native App Development. I am eager to find learning opportunities in the IT industry.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkhanna" /> </p>
 
