@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shubh</h1>
+<img src="https://github-hero-readme.vercel.app/api?username=shubhkhanna&linkedin=shubhkhanna&twitter=khannashubh04&description=Full Stack Developer | Native App Developer" width="100%">
 <p align="center">
 ⚡ I love to build Scalable Software solutions which can make one's life easy. I have expertise in Web Technologies, Native App Development. I am eager to find learning opportunities in the IT industry.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkhanna" /> </p>
 
 - 🎓 **Junior Year Student at DIT University, Dehradun.**
 
@@ -14,6 +13,7 @@
 
 - 📫 How to reach me **dit.shubhkhanna@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkhanna" /> </p>
 
 <h3 align="center">🤝Connect with me</h3>
 <p align="center">
