@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhkhanna](https://github.com/shubhkhanna)
 
-- 💬 Ask me about **React, Node.js, MongoDb, React-Native, GraphQl, Python**
+- 💬 Ask me about **React, Node.js, MongoDb, React-Native, GraphQL, AWS Amplify, Python**
 
 - ✈️ **Hire me for remote work & internships.**
 
