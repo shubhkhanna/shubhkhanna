@@ -1,4 +1,4 @@
-<img src="https://github-hero-readme.vercel.app/api?username=shubhkhanna&linkedin=shubhkhanna&twitter=khannashubh04&description=Full Stack Developer | Native App Developer" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=shubhkhanna&linkedin=shubhkhanna&twitter=shubhdeveloper&description=Full Stack Developer | Native App Developer" width="100%">
 <p align="center">
 ⚡ I love to build Scalable Software solutions which can make one's life easy. I have expertise in Web Technologies, Native App Development. I am eager to find learning opportunities in the IT industry.</p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="center">🤝Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/khannashubh04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khannashubh04" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhdeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhdeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhkhanna" height="30" width="40" /></a>
 <a href="https://medium.com/@shubhkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shubhkhanna" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubh_khanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shubh_khanna" height="30" width="40" /></a>
