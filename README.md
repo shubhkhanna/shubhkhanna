@@ -1,7 +1,7 @@
-## Hey 👋, I am [Shubh Khanna](https://shubhkhanna.tech/)
+## Hey 👋, I am [Shubh Khanna](https://shubhkhanna.github.io/)
 
 <p align="center">
-⚡ I love to build Scalable Software solutions which can make one's life ease. I have expertise in Web Technologies, Native App Development. I am eager to find learning opportunities in the IT industry.
+⚡ I love to build Scalable Software solutions which can make one's task easy. I have expertise in Full Stack Web Development, Native App Development. I am eager to find learning opportunities in the IT industry.
 </p>
 
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhkhanna](https://github.com/shubhkhanna)
 
-- 💬 Ask me about **React, Node.js, MongoDb, React-Native, GraphQL, AWS Amplify, Python**
+- 💬 Ask me about **React, React-Native, Express.js, Node.js, MongoDb, Typescript, GraphQL, AWS Amplify, Python**
 
-- 📫 How to reach me **dit.shubhkhanna@gmail.com**
+- 📫 How to reach me **khannashubh2001@gmail.com**
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=shubhkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkhanna" />
