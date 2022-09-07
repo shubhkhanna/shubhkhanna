@@ -5,7 +5,7 @@
 </p>
 
 
-- 🎓 Junior Year Student at DIT University, Dehradun.
+- 🎓 Final Year Student at DIT University, Dehradun.
 
 - ✈️ Hire me for remote work & internships.
 
@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/shubhkhanna" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/shubhdeveloper" target="_blank">
+<a href="https://twitter.com/codex_20" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </p>
